@@ -1,6 +1,6 @@
 <img src="https://jorgebenitezlopez.com/github/react.png">
 
-# ¿Cómo hacer el modo oscuro de una web usando el useState y el useContext?
+# ¿Cómo hacer el modo oscuro de una web usando el useState y el useContext? Sigue los pasos 😉
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). (Sería mejor con Vite)
 
