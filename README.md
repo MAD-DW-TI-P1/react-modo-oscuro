@@ -51,7 +51,7 @@ Voy a crear más componentes para las redes sociales. En este caso utilizo [Icon
 
 Vale, ya está, cambia todo de color pero ¿Cómo puede pasar el theme a componentes inferiores para evitar que se inviertan las imágenes?
 
-1. A través de props (Información que no cambia). Ver el ejemplo en el código. (Descomenta y prueba). Esta solución tienen problemas, hay que pasar los props a los componetes descendientes. [¿Te suena la pirámide de la muerte?](https://jsepulveda.co/media/posts/4/0_iiecmuTLPBqbxd5V.jpeg) 
+1. A través de props (Información que no cambia). Ver el ejemplo en el código. (Descomenta y prueba). Esta solución tienen problemas, hay que pasar los props a los componetes descendientes. [¿Te suena la pirámide de la muerte?](https://jsepulveda.co/media/posts/4/0_iiecmuTLPBqbxd5V.jpeg) y el ¿prop drilling?
 
 2. A través de [useContext](https://es.react.dev/reference/react/useContext)
 
