@@ -2,7 +2,7 @@
 
 # ¿Cómo hacer el modo oscuro de una web usando el useState y el useContext?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). (Sería mejor con Vite)
 
 ## Scripts
 
