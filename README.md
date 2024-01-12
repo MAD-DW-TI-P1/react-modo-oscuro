@@ -75,7 +75,11 @@ y para utilizarlo: `import { ThemeContext } from '../ThemeContext'; import { use
 
 Que se guarde en el local storage
 
+Hacerlo con Next.js: "use client", en el main en lugar de en el body, etc.
+
 Hacerlo con Typescript: https://www.youtube.com/watch?v=xrkWAzLF9Uo
+
+
 
 
 
