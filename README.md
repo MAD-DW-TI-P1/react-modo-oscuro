@@ -55,9 +55,9 @@ Vale, ya está, cambia todo de color pero ¿Cómo puede pasar el theme a compone
 
 2. A través de [useContext](https://es.react.dev/reference/react/useContext)
 
-Creo un Contexto `import {createContext} from 'react'; export const ThemeContext = createContext();`
+Creo un Contexto: ThemeContext.js con `import {createContext} from 'react'; export const ThemeContext = createContext();`
 
-Info: createContext es una función que crea un contexto. Un contexto es esencialmente un contenedor para compartir datos que puedes pasar a través de componentes sin tener que pasar explícitamente las props. La función createContext devuelve un objeto con un componente Provider y un hook useContext.
+Info: createContext es una función que crea un contexto. Un contexto es esencialmente un contenedor para compartir datos que puedes pasar a través de componentes sin tener que pasar explícitamente las props y los states. La función createContext devuelve un objeto con un componente Provider y un hook useContext.
 
 Que importo desde los componentes que lo vayan a utilizar `import { ThemeContext } from './ThemeContext';`
 
